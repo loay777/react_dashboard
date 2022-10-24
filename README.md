@@ -2,7 +2,7 @@
 
 Admin Dashboard UI built using react with the following packgaes:
 
-- "react-router-dom" -> Router /br
+- "react-router-dom" -> Router 
 - "@emotion" -> styling
 - "@fullcalendar" -> Calendar
 - "@mui/icons-material" -> Icons
